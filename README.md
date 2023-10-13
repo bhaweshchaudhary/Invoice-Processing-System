@@ -1,8 +1,5 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/callmebhawesh/Invoice-Processing-System">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">Invoice Processing System</h3>
 
@@ -33,8 +30,6 @@
 * [Acknowledgements](#acknowledgements)
 
 ## About The Project
-
-![Screen Shot](images/screenshot.png)
 
 Invoice Processing System is not something new we've heard of. However, this project let you run the server locally for the client side as well as server side and can be used to note down the pending invoices in an effective way by storing them on mysql database installed on your computer only by using minimal frontend as necessary and no bloatware.  
 
